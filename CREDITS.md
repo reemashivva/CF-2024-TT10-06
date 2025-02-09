@@ -1,45 +1,45 @@
 # CEG Fabless Initiative Credits
 
 ## Project Team CF-2024-TT10-06
-*Project Title:* [Asynchronous FIFO]
+*Project Title:* Asynchronous FIFO
 
 ### Team Members
-- [M.Meenachi]
-  - Class: [III Year B.E. ECE]
+- M.Meenachi
+  - Class: III Year B.E. ECE
   - Department of ECE, CEG
-  - Email: [jananidharani07@gmail.com]
-- [Kavya G]
-  - Class: [III Year B.E. ECE]
+  - Email: jananidharani07@gmail.com
+- Kavya G
+  - Class: III Year B.E. ECE
   - Department of ECE, CEG
-  - Email: [kavyaganesan05@gmail.com]
-- [Reema Shivva]
-  - Class: [III Year B.E. ECE]
+  - Email: kavyaganesan05@gmail.com
+- Reema Shivva
+  - Class: III Year B.E. ECE
   - Department of ECE, CEG
-  - Email: [reemashivva05@gmail.com]
-- [Gokula Krishna DN]
-  - Class: [III Year B.E. ECE]
+  - Email: reemashivva05@gmail.com
+- Gokula Krishna DN
+  - Class: III Year B.E. ECE
   - Department of ECE, CEG
-  - Email: [gokulakrishnadn@gmail.com]
-- [Gokul R]
-  - Class: [IV Year B.E. ECE]
+  - Email: gokulakrishnadn@gmail.com
+- Gokul R
+  - Class: IV Year B.E. ECE
   - Department of ECE, CEG
-  - Email: [rgokul2301@gmail.com]
+  - Email: rgokul2301@gmail.com
 
 
 ### Alumni Mentors
-- [Sivaram Durai]
-  - Class of [2024], Department of ECE, CEG
+- Sivaram Durai
+  - Class of 2024, Department of ECE, CEG
   - Email: [mentor1@email.com]
-- [Nithish V]
-  - Class of [2024], Department of ECE, CEG
+- Nithish V
+  - Class of 2024, Department of ECE, CEG
   - Email: [mentor2@email.com]
-- [Sivakumar Anandan]
-  - Class of [2013], Department of ECE, CEG
+- Sivakumar Anandan
+  - Class of 2013, Department of ECE, CEG
   - Email: [sivakumaranandan@live.com]
 
 
 ## About CEG Fabless
-CEG Fabless is a Student-Faculty-Alumni Integrated Circuits design initiative at the Department of ECE, CEG. Our mission is to enable students to explore, experiment and build ASICs to solve real world problems through collaborative mentorship from academia and industry experts.
+CEG Fabless is a Student-Faculty-Alumni Integrated Circuits design initiative at the Department of ECE, College of Engineering Guindy(CEG). Our mission is to enable students to explore, experiment and build ASICs to solve real world problems through collaborative mentorship from academia and industry experts.
 
 ### TinyTapeout Participation
 This project is part of the TinyTapeout 10 (TT10) shuttle program, with Team ID: CF-2024-TT10-06.
@@ -47,10 +47,10 @@ This project is part of the TinyTapeout 10 (TT10) shuttle program, with Team ID:
 ## Research References
 This project builds upon the following research works:
 
-1. [Clifford E. Cummings]. ([2005]). [Simulation and Synthesis Techniques for Asynchronous
-FIFO Design]. [SNUG San Jose 2002].
+1. Clifford E. Cummings. (2005). Simulation and Synthesis Techniques for Asynchronous
+FIFO Design. SNUG San Jose 2002.
    - This paper helped us to understand the concept and working of an Asynchronous FIFO.
-2. [Sivaram Durai].(https://github.com/sivaram-07/Async-FIFO)
+2. Sivaram Durai.(https://github.com/sivaram-07/Async-FIFO)
    - This provided us with a detailed understanding of how to integrate the concepts into programming.  
 
 # CEG Fabless Initiative Credits
@@ -72,7 +72,7 @@ We express our deepest gratitude to our DECE Alumni for:
 
 ### Department of ECE, CEG
 We sincerely thank:
-- Dr. [M.A.Bhagyaveni] - Head of the Department
+- Dr. M.A.Bhagyaveni - Head of the Department
   - For the guidance and encouragement throughout the project
   - For providing the necessary infrastructure and resources
   - For supporting student initiatives in semiconductor design
