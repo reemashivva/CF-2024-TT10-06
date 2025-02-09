@@ -51,6 +51,7 @@ This project builds upon the following research works:
 FIFO Design]. [SNUG San Jose 2002].
    - This paper helped us to understand the concept and working of an Asynchronous FIFO.
 2. [Sivaram Durai].(https://github.com/sivaram-07/Async-FIFO)
+   - This provided us with a detailed understanding of how to integrate the concepts into programming.  
 
 # CEG Fabless Initiative Credits
 ## Platform Credits
