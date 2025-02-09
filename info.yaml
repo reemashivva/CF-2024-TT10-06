@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Asynchronous FIFO"      # Project title
-  author:       "RMKGS"      # Your name
+  author:       "RMKGSN"      # Your name
   discord:      "reema08296"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "An Asynchronous FIFO is a type of First-In-First-Out memory buffer that allows data transfer between two clock domains operating at differnt frequencies"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
