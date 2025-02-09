@@ -50,6 +50,7 @@ This project builds upon the following research works:
 1. [Clifford E. Cummings]. ([2005]). [Simulation and Synthesis Techniques for Asynchronous
 FIFO Design]. [SNUG San Jose 2002].
    - This paper helped us to understand the concept and working of an Asynchronous FIFO.
+2. [Sivaram Durai].(https://github.com/sivaram-07/Async-FIFO)
 
 # CEG Fabless Initiative Credits
 ## Platform Credits
