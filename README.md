@@ -40,7 +40,7 @@ The GitHub action will automatically build the ASIC files using [OpenLane](https
   - Mastodon [#tinytapeout](https://chaos.social/tags/tinytapeout) [@matthewvenn](https://chaos.social/@matthewvenn)
   - X (formerly Twitter) [#tinytapeout](https://twitter.com/hashtag/tinytapeout) [@tinytapeout](https://twitter.com/tinytapeout)
 
-   ## Credits and References
-  - This project is developed as part of the CEG Fabless initiative by Team CF-2024-TT10-06. For a complete list of contributors, mentors, and research references, please see [CREDITS.md](./CREDITS.md).
+## Credits and References
+- This project is developed as part of the CEG Fabless initiative by Team CF-2024-TT10-06. For a complete list of contributors, mentors, and research references, please see [CREDITS.md](./CREDITS.md).
 
 
