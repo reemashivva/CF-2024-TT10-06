@@ -13,21 +13,21 @@ An Asynchronous FIFO is a memory buffer enabling data transfer between two clock
 
 ## How to test
 
-### Set the following inputs to control FIFO operation:
+#### Set the following inputs to control FIFO operation:
  - write_enable (ui_in[0]) – Enables writing data into the FIFO.
  - read_enable (ui_in[1]) – Enables reading data from the FIFO.
  - reset (ui_in[2]) – Clears all stored data and resets the FIFO.
-### Writing to the FIFO:
+#### Writing to the FIFO:
   - Check if the full flag (ui_out[0]) is LOW (FIFO is not full).
  - Set write_enable (ui_in[0]) HIGH and provide data to the FIFO.
  - On the rising edge of the write clock (w_clk), data is written, and the write pointer advances.
  - Release write_enable after writing is complete.
-## Reading from the FIFO:
+#### Reading from the FIFO:
  - Check if the empty flag (ui_out[1]) is LOW (FIFO contains data).
  - Set read_enable (ui_in[1]) HIGH to request data.
  - On the rising edge of the read clock (r_clk), data is output, and the read pointer advances.
  - Release read_enable after reading is complete.
-## Additional Controls (if using a Debug Interface or Controller):
+#### Additional Controls (if using a Debug Interface or Controller):
  - Adjust Clock Domains: Modify write and read clock frequencies to test synchronization.
  - Monitor Full/Empty Flags: Ensure proper flow control to prevent overflow or underflow.
  - Pause/Resume Reads/Writes: Dynamically enable or disable operations based on system requirements.
