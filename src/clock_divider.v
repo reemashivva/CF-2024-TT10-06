@@ -15,7 +15,7 @@ module clock_divider(
         if (reset) begin
             wr_counter <= 3'b000;
             w_clk <= 1'b0;
-        end else if (wr_counter == 2) begin
+        end else if (wr_counter == 1) begin
             wr_counter <= 3'b000;
             w_clk <= ~w_clk;
         end else begin
@@ -28,7 +28,7 @@ module clock_divider(
         if (reset) begin
             rd_counter <= 3'b000;
             r_clk <= 1'b0;
-        end else if (rd_counter == 1) begin
+        end else if (rd_counter == 2) begin
             rd_counter <= 3'b000;
             r_clk <= ~r_clk;
         end else begin
